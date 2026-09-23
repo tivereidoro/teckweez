@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" src="https://github.com/user-attachments/assets/b636028d-9afc-41e3-b89b-0aad8e311a44" alt="alx_swe" width="50"  height="50"/>
+    <img align="center" src="https://github.com/user-attachments/assets/b636028d-9afc-41e3-b89b-0aad8e311a44" alt="harvard" width="50"  height="50"/>
 
 ###
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## Final Project - Harvard's CS50P Python Programming
+## Final Project - Harvard's CS50P Python Programming by Tivere IDORO
 
 </div>
 
@@ -46,7 +46,7 @@ To install and play the TecKweez game on your local machine, follow these steps:
 1. Clone the repository:
 
    ```groovy
-   git clone https://github.com/tivereidoro/_.git
+   git clone https://github.com/tivereidoro/teckweez.git
    ```
 
 2. Navigate to the project directory:
@@ -57,7 +57,7 @@ To install and play the TecKweez game on your local machine, follow these steps:
 
 3. Run and play the app:
     ```groovy
-   python project.py
+   python src/project.py
    ```
 
 ##
@@ -72,7 +72,7 @@ To install and play the TecKweez game on your local machine, follow these steps:
 ---
 
 ### AUTHOR 👨🏽‍💻:
-[Tivere IDORO](https://tivereidoro.bio.link) -- _[Github](https://github.com/tivereidoro) | [Linkedin](https://www.linkedin.com/in/tivereidoro) | [X](https://twitter.com/tivereidoro)._
+[Tivere IDORO](https://tivere.vercel.app) -- _[Github](https://github.com/tivereidoro) | [Linkedin](https://www.linkedin.com/in/tivereidoro) | [X](https://x.com/tivereidoro)._
 
 <hr>
 
